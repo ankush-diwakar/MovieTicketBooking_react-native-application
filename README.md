@@ -30,7 +30,7 @@ king_react-native-application/assets/150348342/db7c3fb2-3241-4596-9938-0b971a31c
 etBooking_react-native-application/assets/150348342/3399bc6a-627d-4e31-ad3d-d6d604922e34)
 shot_2023-12-20-21-45-52-15_04219b22b3a804f1272bf42ac5afb247](https://github.com/ankush-diwakar/MovieTicketBooking_react-native-application/assets/150348342/307e5d71-75dc-4916-8fc5-398726447393)
 -35-50_04219b22b3a804f1272bf42ac5afb247](https://github.com/ankush-diwakar/MovieTicketBooking_react-na![Screenshot_2023-12-20-21-45-41-90_04219b22b3a804f1272bf42ac5afb247](https://github.com/ankush-diwakar/MovieTicketBooking_react-native-application/assets/150348342/7ee56581-04a9-47a2-bbc2-05f6dd1fee1e)
-tive-application/assets/150348342/9421b2bc-cf85-4a9d-b0d4-ac657cad1e47)![Screenshot_2023-12-20-21-45-38-05_04219b22b3a804f1272bf42ac5afb247](https://github.com/ankush-diwakar/MovieTicketBooking_react-native-application/assets/150348342/6e6f3ec0-fb96-4414-b669-0bb5681d4db1)
+
 
 04219b22b3a804f1272bf42ac5afb247](https://github.com/ankush-diwakar/MovieTicketBooking_react-native-application/assets/150348342/89b5d783-7762-4dde-bb63-d9fa0aeb868e)
 
